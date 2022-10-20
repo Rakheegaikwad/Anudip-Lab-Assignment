@@ -49,5 +49,13 @@ public class MulOfMatrics
 		System.out.println("mul "+mul);// printing multiplication of Array
 	}
 	//end of main method
-}
+}	
 	//end of class MulOfMatrics 
+
+
+/*
+mul 2880
+*/
+
+
+	
