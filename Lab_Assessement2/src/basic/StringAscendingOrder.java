@@ -29,3 +29,10 @@ public class StringAscendingOrder
 	//end of main method
 }
 // end of class  StringAscendingOrder 
+
+/*
+is this easiest example this
+is
+easiest
+example
+*/
