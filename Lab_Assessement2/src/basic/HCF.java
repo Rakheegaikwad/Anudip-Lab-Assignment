@@ -27,3 +27,8 @@ public class HCF
 	//end of main method
 }
 //end of class HCF 
+
+/*
+output 
+ 12 
+*/
